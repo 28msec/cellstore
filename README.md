@@ -8,6 +8,4 @@ A deployment can be easily customized to your own needs.
 An example of such deployment with SEC filings is available at [secxbrl.info](http://app.secxbrl.info).
 If you are interested, contact us at [hello@28.io](mailto:hello@28.io).
 
-A community version of the CellStore is available at [wcandillon/cellstore](https://github.com/wcandillon/cellstore).
-
 Cell stores founding paper: http://arxiv.org/pdf/1410.0600.pdf
